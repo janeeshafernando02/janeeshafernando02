@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Janeesha Fernando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=237AF7&background=FFFFFF&center=true&vCenter=true&width=443&height=100&lines=Software+Engineering+Student;University+of+Westminster;Enthusiastic+Software+Developer+;Competitive+Programmer;janeesha.20221110%40iit.ac.lk" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=237AF7&background=FFFFFF&center=true&vCenter=true&width=443&height=100&lines=Software+Engineering+Student;University+of+Westminster;Enthusiastic+Software+Developer+;Competitive+Programmer;janeeshafernando77%40gmail.com" alt="Typing SVG" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -10,8 +10,7 @@
 
 <br><br>
 
-- :school: I am a second year student at [Informatics Institute of Technology](https://www.iit.ac.lk//)
-           which is partnered with [University of Westminster](https://www.westminster.ac.uk/).
+- :school: I am a second year undergraduate student at [University of Westminster](https://www.westminster.ac.uk/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering` and `Artifical Intelligence and Data Science`.
 - :nerd_face: Always `learning new things`.
