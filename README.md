@@ -12,8 +12,7 @@
 
 - 👩‍🎓: I am a second year undergraduate student at [University of Westminster](https://www.westminster.ac.uk/).
 - 👩‍💻: I love using Software as a solution for every `Problem`.
-- 📚 I’m currently learning `Software Engineering` and `Artifical Intelligence and Data Science`.
-- :nerd_face: Always `learning new things`.
+- :nerd_face: Ambitious to learn new technologies.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
 <br>
