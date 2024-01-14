@@ -55,7 +55,6 @@
 <br>
 
 ### ⚡ Database 
-
 <p align = "center">
 	&emsp;
 	   <a href = "https://dev.mysql.com/doc/" target="_blank">
@@ -137,7 +136,7 @@
 <br>
 
  ### 💻 IDEs
- 
+ <br>
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -180,12 +179,13 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>	
  &emsp;
+	<br>
     <a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank"> 
-     <img alt="SQL" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
    </a>
 &emsp;	
   <a href="https://www.w3schools.com/r/r_intro.asp" target="_blank"> 
-    <img alt="R" src="https://img.shields.io/badge/R%20-%2300599C.svg?style=plastic&logo=R&logoColor=white">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a> 	
 </p>
   &emsp;
