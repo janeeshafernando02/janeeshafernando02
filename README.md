@@ -187,7 +187,7 @@
   <a href="https://www.w3schools.com/r/r_intro.asp" target="_blank"> 
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a> 	
-&emsp
+&emsp;
 <a href="https://www.w3schools.com/r/r_intro.asp" target="_blank"> 
 <img alt="R" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=SQL&logoColor=white">
 </a> 
