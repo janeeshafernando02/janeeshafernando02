@@ -180,17 +180,13 @@
    </a>	
 	<br><br>
  &emsp;
-    <a href="https://www.geeksforgeeks.org/sql-tutorial/" target="_blank"> 
+    <a href="" target="_blank"> 
      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
    </a>
 &emsp;	
-  <a href="https://www.w3schools.com/r/r_intro.asp" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   </a> 	
-&emsp;
-<a href="https://www.w3schools.com/r/r_intro.asp" target="_blank"> 
-<img alt="R" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=SQL&logoColor=white">
-</a> 
 </p>
 <br><br>
 
