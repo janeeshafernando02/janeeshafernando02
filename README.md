@@ -136,7 +136,7 @@
 </p>
 <br>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### 💻 IDEs
  
 <p align="center">
   &emsp;
@@ -188,8 +188,6 @@
     <img alt="R" src="https://img.shields.io/badge/R%20-%2300599C.svg?style=plastic&logo=R&logoColor=white">
   </a> 	
 </p>
-
-
   &emsp;
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
