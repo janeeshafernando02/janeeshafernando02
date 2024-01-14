@@ -18,13 +18,18 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
+	&emsp;
 	<a href="mailto:janeeshafernando77@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 	</a> 
+	&emsp;
 	<a href="https://github.com/janeeshafernando02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> 
         </a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/shalindi-fernando-98512927a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
+	&emsp;
 	<a href="https://www.facebook.com/profile.php?id=100084432848059"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+	&emsp;
 	<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="GitHub"/></a>
 
 </p>
