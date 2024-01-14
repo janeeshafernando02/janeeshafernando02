@@ -11,7 +11,6 @@
 <br><br>
 
 - 👩‍🎓: I am a second year undergraduate student at [University of Westminster](https://www.westminster.ac.uk/).
-- 👩‍💻: I love using Software as a solution for every `Problem`.
 - :nerd_face: Ambitious to learn new technologies.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 - :boom: You can visit [MY WEBSITE]().
@@ -19,7 +18,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:janeesha.20221110@iit.ac.lk"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:janeeshafernando77@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/janeeshafernando"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	</a>
 	<a href="https://www.linkedin.com/in/shalindi-fernando-98512927a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
